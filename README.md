@@ -1,4 +1,4 @@
-# Twitter
+# Twitter application 
 
 
 **User Table**
